@@ -9,8 +9,8 @@ pipeline {
                                 doGenerateSubmoduleConfigurations: false,
                                 extensions: [],
                                 submoduleCfg: [],
-                                userRemoteConfigs: [[url: 'https://github.com/itdefined/ITD.git',
-                                                    credentialsId: 'git_hub']]])
+                                userRemoteConfigs: [[url: 'https://github.com/Bhumika-gowda/jenkins_pipeline_jobs_may24.git',
+                                                    credentialsId: 'github_bg']]])
                 }
             }
         }
